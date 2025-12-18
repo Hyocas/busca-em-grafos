@@ -1,6 +1,6 @@
 # Busca em grafo #
 ![Java](https://img.shields.io/badge/Java-red)
-![Grafos](https://img.shields.io/badge/Grafos-lightyellow)
+![Grafos](https://img.shields.io/badge/Grafos-yellow)
 ![Status](https://img.shields.io/badge/Educational-success)
 
 > O objetivo deste projeto é fornecer uma implementação prática das principais estruturas de dados e algoritmos estudados na teoria dos grafos. O sistema permite representar grafos de três formas distintas e executar algoritmos complexos para análise de conectividade e otimização.
