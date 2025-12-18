@@ -1,5 +1,6 @@
 # Busca em grafo #
 ![Java](https://img.shields.io/badge/Java-red)
+![Java Swing](https://img.shields.io/badge/Java%20Swing-purple)
 ![Grafos](https://img.shields.io/badge/Grafos-yellow)
 ![Status](https://img.shields.io/badge/Educational-success)
 
