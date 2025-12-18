@@ -31,17 +31,25 @@ O projeto suporta três tipos de estruturas para armazenar o grafo, todas implem
 * **Lista de Adjacência**
 * **Matriz de Adjacência**
 * **Matriz de Incidência**
-
+  
 ### Algoritmos implementados
 
-* **Busca em Largura (BFS)**
-* **Busca em Profundidade (DFS)**
-* **Caminho Mínimo (Dijkstra)**
-* **Árvore Geradora Mínima (AGM)**
+* **Busca em Largura (BFS):**
+Classificação de arestas (Árvore, Retorno, Avanço, Cruzamento) e cálculo de tempos de descoberta e finalização.
+
+* **Busca em Profundidade (DFS):**
+Cálculo de distâncias mínimas (em arestas) e identificação de predecessores.
+
+* **Caminho Mínimo (Dijkstra):**
+Encontra o menor caminho ponderado entre um vértice origem e um destino.
+
+* **Árvore Geradora Mínima (AGM):**
+Algoritmo para encontrar a sub-árvore que conecta todos os vértices com o menor custo total.
 
 ## Ferramentas Utilizadas
 
-- Java
+- Liguagem: Java
+- GUI: Java Swing (JFrame, JPanel, GridBagLayout)
 - Estruturas de Dados: HashMap, ArrayList, PriorityQueue, LinkedList.
 
 ## Executando o Projeto
